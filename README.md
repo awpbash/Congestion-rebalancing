@@ -1,5 +1,7 @@
 # Taxi Rebalancing Project
 
+## WORK IN PROGRESS 🏗️🏗️🏗️
+
 This repository explores a **taxi rebalancing** problem in an urban environment, aiming to minimize passenger waiting times and idle cruising by intelligently repositioning taxis in response to demand.
 
 ## Table of Contents
